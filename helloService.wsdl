@@ -1,0 +1,9 @@
+<definitions name="HelloService" 
+	targetNamespace="http://localhost:8000/helloservice"
+	xmlns="http://localhost:8000/helloservice"
+	xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+    xmlns:http="http://schemas.xmlsoap.org/wsdl/http/"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/">
+
+</definitions>
